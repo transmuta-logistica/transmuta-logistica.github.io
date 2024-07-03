@@ -1,0 +1,59 @@
+@charset "iso-8859-1";
+/* CSS Document */
+body {margin:0; padding:0; border:0;background-image:url(../fig/fundo1.jpg); background-repeat: no-repeat; background-position:center top; background-color:#f7f7f7; }
+img	 {margin:0; padding:0; border:0;}
+.corpo {font-family:Calibri, sans-serif;}
+.topo { margin: 0 auto; height:160px}
+.rodape { background-color:#a5bd8e; height:78px}
+.inputs_tipo1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+	font-weight: normal;
+	color: #060;
+	text-decoration: none;
+	background-color: #FFF;
+	background-image: url(../fig/fundo_inputs.jpg);
+	background-repeat: repeat-x;
+	background-position: center top;
+	width: 320px;
+	padding-right: 5px;
+	padding-left: 5px;
+	border: 1px solid #B3FFB3;
+	height: 25px;
+}
+.inputs_tipo2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+	font-weight: normal;
+	color: #060;
+	text-decoration: none;
+	background-color: #FFF;
+	background-image: url(../fig/fundo_inputs.jpg);
+	background-repeat: repeat-x;
+	background-position: center top;
+	width: 320px;
+	padding-right: 5px;
+	padding-left: 5px;
+	border: 1px solid #B3FFB3;
+	height: 200px;
+}
+.home { min-height:350px;}
+.quem_somos { min-height:350px;}
+.servicos { min-height:300px;}
+.contato { min-height:350px;}
+
+.fleg { font-family:Calibri, sans-serif; font-size:13px; text-decoration:none; color:#FFF}
+.fleg a { font-family:Calibri, sans-serif; font-size:13px; text-decoration:none; color:#FFF}
+.fleg a:hover {text-decoration:underline}
+
+.texto-home {font-size: 30px;color: #5da038;font-family: "Segoe UI", sans-serif;line-height: 42px;text-decoration: none;padding-top: 25px;}
+.titulos { font-size:25px; color:#5da038;}
+.textos { color:#707070}
+.textos-form {color:#707070;font-weight:bold;}
+
+.titulo_box_clientes{width: 458px;height: 64px;background-image: url(../fig/titulo_clientes.jpg);background-repeat: no-repeat;}
+.titulo_box_clientes span{padding-left: 60px;font-size: 17px;padding-top: 15px;float: left;}
+.titulo_box_rotas{width: 461px;height: 64px;background-image: url(../fig/titulo_rotas.jpg);background-repeat: no-repeat;}
+.titulo_box_rotas span{padding-left: 60px;font-size: 17px;padding-top: 15px;float: left;}
